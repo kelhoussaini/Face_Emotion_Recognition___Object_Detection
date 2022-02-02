@@ -1,0 +1,2 @@
+# Face_Emotion_Recognition___Object_Detection
+Face_Emotion_Recognition___Object_Detection__With OpenCV tensorflow, pytorch, fasterRCNN, MTCNN
